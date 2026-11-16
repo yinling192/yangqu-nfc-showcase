@@ -1,0 +1,4 @@
+NFC NDEF URI 内容：
+https://你的GitHub用户名.github.io/仓库名/
+
+请用部署成功后的真实 HTTPS 地址替换上面的示例。不要把网页源码写入 NTAG213，只写 URL。
