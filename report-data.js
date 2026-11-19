@@ -6,7 +6,7 @@ window.YANGQU_REPORT = {
   dateCN: "2026年11月19日",
   weather: "晴",
   weeklyGeneration: "51.9290",
-  radiation（kwh/m²）: {
+  radiation: {
     day: "3.2778",
     month: "47.5778",
     year: "1513.1557"
